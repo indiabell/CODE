@@ -4,13 +4,13 @@
       "imageSrc": "projects/project.png",
       "description": "Developed to help SCU students find groups for engineering capstone projects.",
       "skills": ["HTML5", "CSS", "JavaScript", "PHP"],
-      "source": "https://www.github.com"
+      "source": "https://github.com/ee-schmidt/coen-60-final-project"
     },
     {
       "title": "Portfolio Website",
       "imageSrc": "projects/project.png",
       "description": "Developed to showcase my projects, skills, and experience as a full-stack developer.",
       "skills": ["React", "JavaScript", "HTML5", "CSS"],
-      "source": "https://www.github.com"
+      "source": "https://github.com/indiabell/CODE/tree/main/react-portfolio"
     }
   ]
